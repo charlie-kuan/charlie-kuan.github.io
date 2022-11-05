@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://charlie-kuan.github.io/categories/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://charlie-kuan.github.io/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/categories/gallery/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlie-kuan.github.io/post/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/tags/rcss/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/tags/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/tags/%E6%A9%9F%E5%A0%B4/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/2022/11/05/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/tags/%E8%8F%AF%E8%88%AA/</loc>
+    <lastmod>2022-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/categories/notes/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://charlie-kuan.github.io/2022/11/04/hello-world/</loc>
+    <loc>https://charlie-kuan.github.io/tags/ntu/</loc>
+    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/tags/taipei/</loc>
+    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charlie-kuan.github.io/2022/11/04/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://charlie-kuan.github.io/about/</loc>
@@ -17,12 +47,8 @@
   </url><url>
     <loc>https://charlie-kuan.github.io/search/placeholder/</loc>
   </url><url>
-    <loc>https://charlie-kuan.github.io/categories/</loc>
-  </url><url>
     <loc>https://charlie-kuan.github.io/archive/</loc>
   </url><url>
     <loc>https://charlie-kuan.github.io/search/</loc>
-  </url><url>
-    <loc>https://charlie-kuan.github.io/tags/</loc>
   </url>
 </urlset>
